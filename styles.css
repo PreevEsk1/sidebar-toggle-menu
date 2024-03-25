@@ -150,3 +150,11 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-1 {
     margin-top: 8px;
 }
 
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(-135deg);
+    margin-top: -9px;
+}
+
+
