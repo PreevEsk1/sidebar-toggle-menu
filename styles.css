@@ -11,3 +11,7 @@ body {
     margin: 0;
     font-family: 'Varela Round', sans-serif;
 }
+
+.header {
+    display: block;
+}
